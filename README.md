@@ -62,7 +62,6 @@ Hello, My name is Sirojiddin Anvarov!
 ![Dash](https://img.shields.io/badge/Dash-000000?style=for-the-badge&logo=plotly&logoColor=white)
 ![Bokeh](https://img.shields.io/badge/Bokeh-9E2A2B?style=for-the-badge&logo=python&logoColor=white)
 
-::contentReference[oaicite:0]{index=0}
- 
+
 
 
