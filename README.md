@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 # 💫 About Me:
 Hello, My name is Sirojiddin Anvarov!
 
-## 🌐 Socials:
 
 
 # 💻 Tech Stack:
