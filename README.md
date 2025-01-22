@@ -62,7 +62,12 @@ Hello, My name is Sirojiddin Anvarov!
 ![Dash](https://img.shields.io/badge/Dash-000000?style=for-the-badge&logo=plotly&logoColor=white)
 ![Bokeh](https://img.shields.io/badge/Bokeh-9E2A2B?style=for-the-badge&logo=python&logoColor=white)
 
-[![Sizning GitHub statistikangiz](https://github-readme-stats.vercel.app/api?username=theanvarow&bg_color=000000)](https://github.com/theanvarow)
+[![Sizning GitHub statistikangiz](https://github-readme-stats.vercel.app/api?username=theanvarow&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/theanvarow)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theanvarow&theme=github_dark&hide_border=false)](https://github.com/theanvarow)
+
+
+
 
 
 
