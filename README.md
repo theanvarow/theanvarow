@@ -42,9 +42,3 @@ I'm an **Operations & Data Analyst** focused on workflow optimization, shift eff
 
 ---
 
-### 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theanvarow&theme=github_dark&show_icons=true&hide_border=false&count_private=true" alt="Sirojiddin's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanvarow&theme=github_dark&hide_border=false&layout=compact" alt="Top Languages" width="48%" />
-</p>
