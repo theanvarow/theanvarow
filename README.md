@@ -39,15 +39,12 @@ I'm an **Operations & Data Analyst** focused on workflow optimization, shift eff
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+
 ---
 
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <a href="https://github.com/theanvarow">
-    <img src="https://github-readme-stats.vercel.app/api?username=theanvarow&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="Sirojiddin's GitHub Stats" />
-  </a>
-  <a href="https://github.com/theanvarow">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanvarow&theme=github_dark&hide_border=false&layout=compact" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=theanvarow&theme=github_dark&show_icons=true&hide_border=false&count_private=true" alt="Sirojiddin's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanvarow&theme=github_dark&hide_border=false&layout=compact" alt="Top Languages" width="48%" />
 </p>
